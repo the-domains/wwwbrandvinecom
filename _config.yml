@@ -6,9 +6,9 @@ color:
   saturation: 0.6790769847575575
   rhythmicContrast: 0.7108282793778926
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: www.brandvine.com
